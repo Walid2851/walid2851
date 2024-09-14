@@ -5,7 +5,7 @@
 - 🎓 Currently pursuing a Bachelor of Science (BSc) in Computer Science at the University of Dhaka.
 - 🔭 Currently learning **React.js** to enhance my front-end development skills.
 - 💻 I have experience in **C++, Java, HTML, CSS, JavaScript, MySQL**.
-- 🤖 AI enthusiast, working on side projects in AI and machine learning.
+- 🤖 AI enthusiast.
 - 📝 Check out my [Portfolio](https://your-portfolio-url.com) for more details!
 
 ### Languages and Tools:

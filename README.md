@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mahmud Hasan Walid 👋
 
-<!--
-**Walid2851/walid2851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student | AI Enthusiast | Full Stack Developer in Progress**
 
-Here are some ideas to get you started:
+- 🎓 Currently pursuing a Bachelor of Science (BSc) in Computer Science at the University of Dhaka.
+- 🔭 Currently learning **React.js** to enhance my front-end development skills.
+- 💻 I have experience in **C++, Java, HTML, CSS, JavaScript, MySQL**.
+- 🤖 AI enthusiast, working on side projects in AI and machine learning.
+- 📝 Check out my [Portfolio](https://your-portfolio-url.com) for more details!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+
+### Connect with me:
+- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mahmud-hasan-walid-280016329/))
+- [Email](im.walid.hasan@gmail.com)
